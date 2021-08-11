@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://cdn.jsdelivr.net/gh/ethsana/airdrop-online@20210811.121211/static/css/main.8a7468d3.chunk.css",
-    "main.js": "https://cdn.jsdelivr.net/gh/ethsana/airdrop-online@20210811.121211/static/js/main.9721a3f0.chunk.js",
-    "runtime-main.js": "https://cdn.jsdelivr.net/gh/ethsana/airdrop-online@20210811.121211/static/js/runtime-main.a82b92ad.js",
-    "static/js/2.7bc99079.chunk.js": "https://cdn.jsdelivr.net/gh/ethsana/airdrop-online@20210811.121211/static/js/2.7bc99079.chunk.js",
-    "static/js/3.7c3607a0.chunk.js": "https://cdn.jsdelivr.net/gh/ethsana/airdrop-online@20210811.121211/static/js/3.7c3607a0.chunk.js",
-    "static/js/4.2b1d3201.chunk.js": "https://cdn.jsdelivr.net/gh/ethsana/airdrop-online@20210811.121211/static/js/4.2b1d3201.chunk.js",
-    "index.html": "https://cdn.jsdelivr.net/gh/ethsana/airdrop-online@20210811.121211/index.html",
-    "static/js/2.7bc99079.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/ethsana/airdrop-online@20210811.121211/static/js/2.7bc99079.chunk.js.LICENSE.txt",
-    "static/js/3.7c3607a0.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/ethsana/airdrop-online@20210811.121211/static/js/3.7c3607a0.chunk.js.LICENSE.txt",
-    "static/media/sana-logo.8520bee1.png": "https://cdn.jsdelivr.net/gh/ethsana/airdrop-online@20210811.121211/static/media/sana-logo.8520bee1.png"
+    "main.css": "https://cdn.jsdelivr.net/gh/ethsana/airdrop-online@20210811.172845/static/css/main.e7ef85f7.chunk.css",
+    "main.js": "https://cdn.jsdelivr.net/gh/ethsana/airdrop-online@20210811.172845/static/js/main.aa5eba75.chunk.js",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/ethsana/airdrop-online@20210811.172845/static/js/runtime-main.a1057347.js",
+    "static/js/2.06def92a.chunk.js": "https://cdn.jsdelivr.net/gh/ethsana/airdrop-online@20210811.172845/static/js/2.06def92a.chunk.js",
+    "static/js/3.3dc3da2d.chunk.js": "https://cdn.jsdelivr.net/gh/ethsana/airdrop-online@20210811.172845/static/js/3.3dc3da2d.chunk.js",
+    "static/js/4.05e56fef.chunk.js": "https://cdn.jsdelivr.net/gh/ethsana/airdrop-online@20210811.172845/static/js/4.05e56fef.chunk.js",
+    "index.html": "https://cdn.jsdelivr.net/gh/ethsana/airdrop-online@20210811.172845/index.html",
+    "static/js/2.06def92a.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/ethsana/airdrop-online@20210811.172845/static/js/2.06def92a.chunk.js.LICENSE.txt",
+    "static/js/3.3dc3da2d.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/ethsana/airdrop-online@20210811.172845/static/js/3.3dc3da2d.chunk.js.LICENSE.txt",
+    "static/media/sana-logo.8520bee1.png": "https://cdn.jsdelivr.net/gh/ethsana/airdrop-online@20210811.172845/static/media/sana-logo.8520bee1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a82b92ad.js",
-    "static/js/3.7c3607a0.chunk.js",
-    "static/css/main.8a7468d3.chunk.css",
-    "static/js/main.9721a3f0.chunk.js"
+    "static/js/runtime-main.a1057347.js",
+    "static/js/3.3dc3da2d.chunk.js",
+    "static/css/main.e7ef85f7.chunk.css",
+    "static/js/main.aa5eba75.chunk.js"
   ]
 }
